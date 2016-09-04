@@ -1,2 +1,2 @@
-# powershell-function-template
-This is PowerShell function template.
+# PowerShell Function Template
+This is simple PowerShell function template.
