@@ -12,7 +12,8 @@
   [CmdletBinding()]
   param 
   ( 
-
+    [Parameter(Mandatory=$true)]
+    [string] $ParamName
   ) 
  
   begin { 
