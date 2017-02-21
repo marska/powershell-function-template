@@ -13,7 +13,9 @@
   param 
   ( 
     [Parameter(Mandatory=$true)]
-    [string] $ParamName
+    [string] $ParamName,
+    
+    [switch] $SwitchParam
   ) 
  
   begin { 
